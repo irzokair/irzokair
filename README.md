@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anselmo+Carvalho+- irzokair+%F0%9F%91%BE;Cybersecurity+Specialist+%F0%9F%94%90;DFIR+%26+Cyber+Defense+%F0%9F%9B%A1%EF%B8%8F;Threat+Intelligence+%26+Hunting+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Anselmo+Carvalho+-+irzokair+%F0%9F%91%BE;Cybersecurity+Specialist+%F0%9F%94%90;DFIR+%26+Cyber+Defense+%F0%9F%9B%A1%EF%B8%8F;Threat+Intelligence+%26+Hunting+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br/>
 
@@ -22,7 +22,7 @@
   Name    : Anselmo Carvalho
   Role    : Cybersecurity
   Focus   : Professor | Cyber Threat Hunting | DFIR | Sec Info | Bug Bounty
-    Status  : 🔴 Working on secret cyber defense project...
+  Status  : 🔴 Working on secret cyber defense project...
   Learning: Shell Script & Threat Hunting Techniques
 ```
 
@@ -67,7 +67,7 @@
 ```
 [████████████░░░░░░░░] 50% — 🔐 Secret Cyber Security Project
 [████████░░░░░░░░░░░░] 40% — 🐚 Mastering Shell Scripting
-[██████████████░░░░░░] 70% — 📖 Study for Cyber Threat Hunting
+[████████████░░░░░░░░] 50% — 📖 Study for Cyber Threat Hunting
 ```
 
 ---
